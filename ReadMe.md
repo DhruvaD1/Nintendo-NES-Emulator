@@ -3,7 +3,7 @@ This is a NES emulator made in C++. Games from Zelda to Mario can be played on i
 
 ![Mario](SI_3DSVC_SuperMarioBros.jpg)
 
-In no way shape or form is this meant to hurt nintendo. Just a cool project to explore low level and os design.
+In no way shape or form is this meant to hurt nintendo. Just a cool project to explore low level and os design. Through something I love
 
 The program has a virtual cpu and bus. Please take the time to look through the code.
 
