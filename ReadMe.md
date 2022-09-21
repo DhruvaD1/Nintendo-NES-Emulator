@@ -1,7 +1,7 @@
 # Nintendo NES Emulator 
 This is a NES emulator made in C++. Games from Zelda to Mario can be played on it.
 
-#![Mario](SI_3DSVC_SuperMarioBros.jpg)
+![Mario](SI_3DSVC_SuperMarioBros.jpg)
 
 In no way shape or form is this meant to hurt nintendo. Just a cool project to explore low level and os design.
 
