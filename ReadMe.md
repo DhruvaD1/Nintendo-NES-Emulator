@@ -9,4 +9,4 @@ The program has a virtual cpu and bus. Please take the time to look through the 
 
 Use make to play a game with it. U need to have a nes game to play on it
 
-Please only download nes games that you have a physical copy of and have bought.
+Please only download nes games that you have a physical copy of and have bought.  
