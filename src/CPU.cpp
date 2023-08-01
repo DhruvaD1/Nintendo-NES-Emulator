@@ -9,7 +9,7 @@ CPU6502::~CPU6502() {}
 void CPU6502::AM_IMP() {
   addressingMode = Implicit;
 };
-
+   
 void CPU6502::AM_ACC() {
   currentValue = a;
   addressingMode = Accumulator;
