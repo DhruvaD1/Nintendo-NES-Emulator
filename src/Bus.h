@@ -7,7 +7,7 @@
 
 class CPU6502;
 
-class Bus {
+class Bus { 
   public:
     Bus();
     ~Bus();
